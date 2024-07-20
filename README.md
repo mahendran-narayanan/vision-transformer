@@ -1,1 +1,1 @@
-# vision transformer (ViT)
+# Vision Transformer (ViT)
