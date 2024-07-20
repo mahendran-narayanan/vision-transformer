@@ -1,2 +1,1 @@
-# vision-transformer
-Vision transformer Python
+# vision transformer (ViT)
